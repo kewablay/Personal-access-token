@@ -12,7 +12,7 @@ to create a personal access token
 in your project
 1. initialize git
 2. git remote remove origin
-3. git remote add origin https://<TOKEN>@github.com/kewablay/<REPO>.git
+3. git remote add origin https://(TOKEN)@github.com/kewablay/(REPO).git
 
 
 4. git config --global user.email "kojokewajunior123@gmail.com"
